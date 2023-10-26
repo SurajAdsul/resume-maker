@@ -1,5 +1,6 @@
 # resume-maker
 
+This is a quick implementation for resume creation.
 
 Run yarn install
 
